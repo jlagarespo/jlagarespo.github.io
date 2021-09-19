@@ -1,0 +1,30 @@
+body {
+	overflow: hidden;
+	background-color: #E0E0E0;
+	color: black;
+}
+
+div.center {
+	margin: 0;
+	position: absolute;
+	top: 10em;
+
+	text-align: center;
+	width: 100vw;
+}
+
+div.bottom {
+	position: absolute;
+	bottom: 0;
+	margin-bottom: 2em;
+
+	text-align: center;
+	vertical-align: middle;
+	width: 100vw;
+}
+
+a.bottom-link {
+	/* margin-left: 0.5em; */
+	/* margin-right: 0.5em; */
+	text-decoration: none;
+}
